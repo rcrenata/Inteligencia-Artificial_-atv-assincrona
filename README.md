@@ -1,6 +1,6 @@
 # Inteligencia-Artificial_-atv-assincrona
 
-Renata Rodrigues Coelho - 22251140
+Renata Rodrigues Coelho - 22251140  
 Thiago Vítor Gomes Pereira - 22250551
 
 Execute o exercicio 21.1 com o mini_hyper (disponivel) e o learning
