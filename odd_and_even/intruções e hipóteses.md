@@ -32,9 +32,6 @@ Essas hipóteses são apenas "esboços" iniciais e não são úteis por si só.
 O refinamento adiciona mais conhecimento à hipótese para torná-la específica e útil.
 
 **Hipóteses Finais**:
-A hipótese final é a versão mais específica e correta, que deve:
-
-Cobrir todos os exemplos positivos.
-Rejeitar todos os exemplos negativos.
+A hipótese final é a versão mais específica e correta, que deve cobrir todos os exemplos positivos e rejeitar todos os exemplos negativos.
 
 
